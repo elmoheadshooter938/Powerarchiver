@@ -220,4 +220,4 @@ PowerArchiver is offered as a full free version, including all features and upda
 Take control of your file management today with PowerArchiver! Download now and experience the ultimate compression solution.
 
 ---
-**Last updated:** 2026-11-12 17:21:11 UTC
+**Last updated:** 2026-11-12 22:58:32 UTC
